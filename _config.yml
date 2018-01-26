@@ -1,2 +1,4 @@
 name: Richard Red
 	markdown: kramdown
+	
+permalink: /blog/:year/:month/:day/:title
