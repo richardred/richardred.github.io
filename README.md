@@ -1,2 +1,2 @@
 # richardred.github.io
-Personal website
+Personal website/CSS testing environment
